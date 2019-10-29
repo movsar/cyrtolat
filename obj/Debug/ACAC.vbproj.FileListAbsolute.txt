@@ -1,0 +1,10 @@
+e:\eclipsed\!(coding)=]\ACAC\Project\Cyr-to-lat\bin\Debug\ACAC.exe
+e:\eclipsed\!(coding)=]\ACAC\Project\Cyr-to-lat\bin\Debug\ACAC.pdb
+e:\eclipsed\!(coding)=]\ACAC\Project\Cyr-to-lat\obj\Debug\ResolveAssemblyReference.cache
+e:\eclipsed\!(coding)=]\ACAC\Project\Cyr-to-lat\obj\Debug\ACAC.AbForm.resources
+e:\eclipsed\!(coding)=]\ACAC\Project\Cyr-to-lat\obj\Debug\ACAC.main.resources
+e:\eclipsed\!(coding)=]\ACAC\Project\Cyr-to-lat\obj\Debug\ACAC.Resources.resources
+e:\eclipsed\!(coding)=]\ACAC\Project\Cyr-to-lat\obj\Debug\GenerateResource-ResGen.read.1.tlog
+e:\eclipsed\!(coding)=]\ACAC\Project\Cyr-to-lat\obj\Debug\GenerateResource-ResGen.write.1.tlog
+e:\eclipsed\!(coding)=]\ACAC\Project\Cyr-to-lat\obj\Debug\ACAC.exe
+e:\eclipsed\!(coding)=]\ACAC\Project\Cyr-to-lat\obj\Debug\ACAC.pdb
